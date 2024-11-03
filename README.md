@@ -1,5 +1,5 @@
 Mk- 👋 Hi, I’m @HitikNayak
-- 👀 I’m interested in coding
+- 👀 I’m interested in coding (html, css, js)
 - 🌱 I’m currently learning PYTHON
 - 💞️ I’m looking to collaborate on LANGUAGE EXPERT
 - 📫 Reach me through gmail
